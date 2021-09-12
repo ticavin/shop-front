@@ -17,7 +17,7 @@ plugins:
 
 custom:
   client:
-    bucketName: manualstoreapp
+    bucketName: firstapp-in-react-pr
     distributionFolder: build
   s3BucketName: ${self:custom.client.bucketName}
 
